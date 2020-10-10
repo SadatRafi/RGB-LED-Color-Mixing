@@ -1,0 +1,10 @@
+E:\Practice\LED Color Mixing\RGB Color Mixing\bin\Debug\RGB Color Mixing.exe.config
+E:\Practice\LED Color Mixing\RGB Color Mixing\bin\Debug\RGB Color Mixing.exe
+E:\Practice\LED Color Mixing\RGB Color Mixing\bin\Debug\RGB Color Mixing.pdb
+E:\Practice\LED Color Mixing\RGB Color Mixing\obj\Debug\RGB Color Mixing.csprojAssemblyReference.cache
+E:\Practice\LED Color Mixing\RGB Color Mixing\obj\Debug\RGB_Color_Mixing.Form1.resources
+E:\Practice\LED Color Mixing\RGB Color Mixing\obj\Debug\RGB_Color_Mixing.Properties.Resources.resources
+E:\Practice\LED Color Mixing\RGB Color Mixing\obj\Debug\RGB Color Mixing.csproj.GenerateResource.cache
+E:\Practice\LED Color Mixing\RGB Color Mixing\obj\Debug\RGB Color Mixing.csproj.CoreCompileInputs.cache
+E:\Practice\LED Color Mixing\RGB Color Mixing\obj\Debug\RGB Color Mixing.exe
+E:\Practice\LED Color Mixing\RGB Color Mixing\obj\Debug\RGB Color Mixing.pdb
